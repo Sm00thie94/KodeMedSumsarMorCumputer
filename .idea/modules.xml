@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Booleans/Booleans.iml" filepath="$PROJECT_DIR$/Booleans/Booleans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingLessons1.iml" filepath="$PROJECT_DIR$/CodingLessons1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/ForLoop/ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoops Advanced/ForLoops Advanced.iml" filepath="$PROJECT_DIR$/ForLoops Advanced/ForLoops Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfStatement/IfStatement.iml" filepath="$PROJECT_DIR$/IfStatement/IfStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntList/IntList.iml" filepath="$PROJECT_DIR$/IntList/IntList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LommeRegner forsøg 3/LommeRegner forsøg 3.iml" filepath="$PROJECT_DIR$/LommeRegner forsøg 3/LommeRegner forsøg 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LommeRegnerpt2/LommeRegnerpt2.iml" filepath="$PROJECT_DIR$/LommeRegnerpt2/LommeRegnerpt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lommeregner Opgave/Lommeregner Opgave.iml" filepath="$PROJECT_DIR$/Lommeregner Opgave/Lommeregner Opgave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scope/Scope.iml" filepath="$PROJECT_DIR$/Scope/Scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/WhileLoop/WhileLoop.iml" />
+    </modules>
+  </component>
+</project>
